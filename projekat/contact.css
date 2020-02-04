@@ -1,0 +1,31 @@
+a {
+  font-size: 2em;
+float: none;
+  color:red;
+}
+a:after {
+  color:green;
+}
+a:hover{
+  color:brown;
+}
+a:first-letter{
+  color:blue;
+}
+a:active{
+  color:black;
+}
+body {
+  background-color: #40E0D0;
+}
+#Facebook{
+  background-color: #EE82EE;
+  color:red;
+}
+#Instagram{
+  background-color: #FF6347;
+  color: blue;
+}
+header{
+  background-color: #F5DEB3;
+}
